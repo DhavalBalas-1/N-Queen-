@@ -1,4 +1,4 @@
-N-Queens Solver
+#N-Queens Solver
 
 Overview
 
